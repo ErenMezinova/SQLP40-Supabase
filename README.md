@@ -19,4 +19,5 @@
   * по получению статистики о заявках на курьера
 
 ## SQL script
-[](https://github.com/ErenMezinova/SQLP40-Supabase/blob/main/sqlp-40-Mezinova-total%201.sql)
+
+[SQL script.sql](https://github.com/ErenMezinova/SQLP40-Supabase/blob/main/sqlp-40-Mezinova-total%201.sql)
